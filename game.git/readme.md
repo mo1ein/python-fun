@@ -1,4 +1,4 @@
 # first python game
-silly game
-open guessgame.py and guess the number 
+silly game<br />
+open guessgame.py and guess the number <br/>
 thanks Xd :)
