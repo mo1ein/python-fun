@@ -1,1 +1,1 @@
-its a simply python program for voice regonition
+its a simply python program for voice recognition
