@@ -4,9 +4,9 @@ only two inputs can be taken from users: <br/>
   
 Voice calculator(2.0) </br>
 examples for users: </br>
-  add 2+2+100,
-  divide 100 by 5
-  multiply 100 into 10
-  square root of 100
-  log 10 to base 10
-  etc
+  add 2+2+100, </br>
+  divide 100 by 5 </br>
+  multiply 100 into 10 </br>
+  square root of 100 </br>
+  log 10 to base 10 </br>
+  etc...
