@@ -99,7 +99,7 @@ def play_game():
     while winner == 0: 
         for player in [1, 2]: 
             board = random_place(board, player) 
-            print("Board after " + str(counter) + " move") 
+            print(f"Board after {str(counter)} move") 
             print(board) 
             sleep(2) 
             counter += 1
@@ -109,4 +109,4 @@ def play_game():
     return(winner) 
   
 # Driver Code 
-print("Winner is: " + str(play_game()))
+print(f"Winner is: {str(play_game())}")
